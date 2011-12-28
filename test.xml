@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<store>
+	<product>
+		<identification>
+    		<full_name>Laptop</full_name>
+			<model>XGSB-2</model>
+		</identification>
+		<price>1000</price>
+		<available value="yes" />
+	</product>
+
+	<product>
+		<identification>
+			<full_name>Desktop</full_name>
+			<model>DRHD-2</model>
+		</identification>
+		<price>500</price>
+		<available value="yes" />
+	</product>
+
+	<product>
+		<identification>
+			<full_name>Desktop</full_name>
+			<model>DRHD-3</model>
+		</identification>
+		<price>600</price>
+		<available value="no" />
+	</product>
+</store>

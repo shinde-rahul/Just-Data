@@ -1,0 +1,17 @@
+<taxonomy>
+	<action type="vocabulary_node_types">
+			<vocabulary name="Trade and Industry Development" description="Description of the vocabulary; can be used by modules." help="" relations="" hierarchy="" multiple="1" required="1" tags="" module="taxonomy" weight="1" filepath="/taxonomies/tnid_primary_taxonomy.csv"/>
+	</action>		
+	<action type="vocabulary_node_types">
+			<vocabulary name="Taregeted industries" description="Description of the vocabulary; can be used by modules." help="" relations="" hierarchy="" multiple="1" required="1" tags="" module="taxonomy" weight="2" filepath="/taxonomies/taregeted_industries.csv"/>
+	</action>
+	<action type="vocabulary_node_types">
+			<vocabulary name="Forums" description="Description of the vocabulary; can be used by modules." help="" relations="" hierarchy="" multiple="1" required="1" tags="" module="taxonomy" weight="3" filepath="/taxonomies/forums.csv"/>
+	</action>
+	<action type="vocabulary_node_types">
+			<vocabulary name="Cici details" description="Description of the vocabulary; can be used by modules." help="" relations="" hierarchy="" multiple="1" required="1" tags="" module="taxonomy" weight="4" filepath="/taxonomies/cici_details.csv"/>
+	</action>
+	<action type="vocabulary_node_types">
+			<vocabulary name="TOC Heading" description="Description of the vocabulary; can be used by modules." help="" relations="" hierarchy="" multiple="1" required="1" tags="" module="taxonomy" weight="5" filepath="/taxonomies/toc_heading.csv"/>
+	</action>		
+</taxonomy>	

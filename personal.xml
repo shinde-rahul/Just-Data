@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:feed xmlns:atom="http://www.w3.org/2005/Atom">
+   <atom:id>http://user-dev.highwire.org/lookup/besbjs/14192.atom</atom:id>
+   <atom:title> USER-specific data</atom:title>
+   <atom:update/>
+   <atom:author/>
+   <atom:entry>
+      <atom:category scheme="http://schema.highwire.org/User" term="INDV"/>
+      <atom:category scheme="http://schema.highwire.org/User#is_member" term=""/>
+      <atom:id>urn:hw-user:14192@besbjs.highwire.org</atom:id>
+      <atom:title>User 14192</atom:title>
+      <user:username xmlns:user="http://schema.highwire.org/User">tmstms</user:username>
+      <user:password xmlns:user="http://schema.highwire.org/User">kPNflnk3Jy0lI</user:password>
+      <user:email xmlns:user="http://schema.highwire.org/User">tmstms@hotmail.com</user:email>
+      <user:firstname xmlns:user="http://schema.highwire.org/User">Sabbiah G</user:firstname>
+      <user:lastname xmlns:user="http://schema.highwire.org/User">Thirumalaisamy</user:lastname>
+      <user:title xmlns:user="http://schema.highwire.org/User"/>
+      <user:address xmlns:user="http://schema.highwire.org/User"/>
+      <user:address xmlns:user="http://schema.highwire.org/User"/>
+      <user:city xmlns:user="http://schema.highwire.org/User"/>
+      <user:state-province xmlns:user="http://schema.highwire.org/User"/>
+      <user:country xmlns:user="http://schema.highwire.org/User"/>
+      <user:postal-code xmlns:user="http://schema.highwire.org/User"/>
+      <user:phone xmlns:user="http://schema.highwire.org/User"/>
+      <user:fax xmlns:user="http://schema.highwire.org/User"/>
+      <user:affiliation xmlns:user="http://schema.highwire.org/User"/>
+      <atom:link href="http://user-dev.highwire.org/lookup/besbjs/14192.atom" rel="self"
+                 type="application/atom+xml"/>
+      <atom:link href="http://user-dev.highwire.org/lookup/besbjs/14192.atom" rel="edit"
+                 type="application/atom+xml"/>
+   </atom:entry>
+   <atom:entry>
+      <atom:category scheme="http://schema.highwire.org/Personalization" term="folder"/>
+      <atom:category scheme="http://schema.highwire.org/Signup" term="jbjsbr"/>
+      <atom:id>708584</atom:id>
+      <atom:title>File Drawer</atom:title>
+      <atom:updated>2011-10-26T05:08:47.460-07:00</atom:updated>
+      <atom:published>2011-10-26T05:08:47.460-07:00</atom:published>
+      <atom:author>
+         <atom:name/>
+      </atom:author>
+      <pf:memeber xmlns:pf="http://schema.highwire.org/Personalization#Folder">
+         <pf:resource-id>jbjsbr;90-B/10/1328</pf:resource-id>
+      </pf:memeber>
+      <atom:link href="http://personalization.highwire.org/folder/708584" rel="self"
+                 type="application/atom+xml"/>
+      <atom:link href="http://personalization.highwire.org/folder/708584" rel="edit"
+                 type="application/atom+xml"/>
+   </atom:entry>
+   <atom:entry>
+      <atom:category scheme="http://schema.highwire.org/Personalization" term="folder"/>
+      <atom:category scheme="http://schema.highwire.org/Signup" term="jbjsbr"/>
+      <atom:id>708585</atom:id>
+      <atom:title>Deleted Articles</atom:title>
+      <atom:updated>2011-10-26T05:08:47.530-07:00</atom:updated>
+      <atom:published>2011-10-26T05:08:47.530-07:00</atom:published>
+      <atom:author>
+         <atom:name/>
+      </atom:author>
+      <pf:memeber xmlns:pf="http://schema.highwire.org/Personalization#Folder">
+         <pf:resource-id>jbjsbr;90-B/10/1328</pf:resource-id>
+      </pf:memeber>
+      <atom:link href="http://personalization.highwire.org/folder/708585" rel="self"
+                 type="application/atom+xml"/>
+      <atom:link href="http://personalization.highwire.org/folder/708585" rel="edit"
+                 type="application/atom+xml"/>
+   </atom:entry>
+   <atom:entry>
+      <atom:category scheme="http://schema.highwire.org/Personalization" term="folder"/>
+      <atom:category scheme="http://schema.highwire.org/Signup" term="jbjsbr"/>
+      <atom:id>708587</atom:id>
+      <atom:title>Arthroscopy</atom:title>
+      <atom:updated>2011-10-26T05:09:38.930-07:00</atom:updated>
+      <atom:published>2011-10-26T05:09:38.930-07:00</atom:published>
+      <atom:author>
+         <atom:name/>
+      </atom:author>
+      <pf:memeber xmlns:pf="http://schema.highwire.org/Personalization#Folder">
+         <pf:resource-id>jbjsbr;90-B/10/1328</pf:resource-id>
+      </pf:memeber>
+      <atom:link href="http://personalization.highwire.org/folder/708587" rel="self"
+                 type="application/atom+xml"/>
+      <atom:link href="http://personalization.highwire.org/folder/708587" rel="edit"
+                 type="application/atom+xml"/>
+   </atom:entry>
+
+</atom:feed>

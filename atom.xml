@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:rsp="http://schema.highwire.org/Service/Response" xmlns:nlm="http://schema.highwire.org/NLM/Journal" xmlns:msg="http://schema.highwire.org/Service/Message" xmlns:c="http://schema.highwire.org/Compound" xmlns:x="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:e="http://schema.highwire.org/Service/HPP/Expand" xmlns:idx="http://schema.highwire.org/Service/Index" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:frz="http://schema.highwire.org/Service/Firenze" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:hpp="http://schema.highwire.org/Publishing" xmlns:app="http://www.w3.org/2007/app" xmlns:fs="http://sassfs.highwire.org/Service/Content" xmlns:l="http://schema.highwire.org/Linking" xmlns:cache="http://sassfs.highwire.org/Service/Cache" xmlns:r="http://schema.highwire.org/Revision" xmlns:req="http://schema.highwire.org/Service/Request" xmlns:hwp="http://schema.highwire.org/Journal" xml:base="http://sass.highwire.org/jsh/7/2.atom">
+
+<r:released>1974-01-01T00:00:00-08:00</r:released>
+<atom:link rel="http://schema.highwire.org/Compound#parent" href="/jsh/7.atom" c:role="http://schema.highwire.org/Journal/Volume"/>
+<atom:category scheme="http://schema.highwire.org/Publishing#role" term="http://schema.highwire.org/Journal/Issue"/>
+<atom:id>tag:jsh@highwire.org,2011-05-15:7/2</atom:id>
+<atom:title>7 (2)</atom:title>
+<atom:author nlm:contrib-type="publisher">
+<atom:name>Oxford University Press</atom:name>
+</atom:author>
+<atom:published>1974-01-01T00:00:00</atom:published>
+<atom:updated>2011-05-15T16:34:18-07:00</atom:updated>
+<app:edited>2011-08-05T00:18:04.0382-07:00</app:edited>
+<r:created>2011-05-15T16:34:18-07:00</r:created>
+<r:received>2011-05-15T16:34:18-07:00</r:received>
+<nlm:journal-meta>
+<nlm:journal-id journal-id-type="hwp">jsh</nlm:journal-id>
+<nlm:journal-id journal-id-type="publisher-id">jsh..j</nlm:journal-id>
+<nlm:journal-title>Journal of Social History</nlm:journal-title>
+<nlm:abbrev-journal-title abbrev-type="publisher">Journal of Social History</nlm:abbrev-journal-title>
+<nlm:abbrev-journal-title>Journal of Social History</nlm:abbrev-journal-title>
+<nlm:issn pub-type="ppub">0022-4529</nlm:issn>
+<nlm:issn pub-type="epub">1527-1897</nlm:issn>
+<nlm:publisher>
+<nlm:publisher-name>Oxford University Press</nlm:publisher-name>
+</nlm:publisher>
+</nlm:journal-meta>
+<nlm:volume-id pub-id-type="other" hwp:sub-type="slug">7</nlm:volume-id>
+<nlm:volume-id pub-id-type="other" hwp:sub-type="tag">7</nlm:volume-id>
+<nlm:issue-id pub-id-type="other" hwp:sub-type="pisa">jsh;7/2</nlm:issue-id>
+<nlm:issue-id pub-id-type="other" hwp:sub-type="slug">2</nlm:issue-id>
+<nlm:issue-id pub-id-type="other" hwp:sub-type="tag">7/2</nlm:issue-id>
+<nlm:pub-id pub-id-type="other" hwp:sub-type="pisa">jsh;7/2</nlm:pub-id>
+<nlm:pub-id pub-id-type="other" hwp:sub-type="slug">2</nlm:pub-id>
+<nlm:pub-id pub-id-type="other" hwp:sub-type="tag">7/2</nlm:pub-id>
+<nlm:volume>7</nlm:volume>
+<nlm:issue>2</nlm:issue>
+<nlm:pub-date pub-type="ppub" hwp:start="1974-01">
+<nlm:month>1</nlm:month>
+<nlm:year>1974</nlm:year>
+</nlm:pub-date>
+<nlm:fpage>115</nlm:fpage>
+<nlm:lpage>240</nlm:lpage>
+<nlm:custom-meta xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple">
+<nlm:meta-name>cover-date</nlm:meta-name>
+<nlm:meta-value>Winter 1974</nlm:meta-value>
+</nlm:custom-meta>
+<atom:link rel="self" href="/jsh/7/2.atom"/>
+<atom:link rel="edit" href="/jsh/7/2.atom"/>
+<atom:link href="/jsh/7/2" c:role="http://schema.highwire.org/Publishing/builtin"/>
+<atom:link rel="alternate" href="/jsh/7/2.atom?form=feed" c:role="http://schema.highwire.org/Publishing/builtin" type="application/atom+xml; type=feed"/>
+<atom:link rel="http://schema.highwire.org/Publishing#model" href="/jsh/7/2.atomvtx"/>
+<atom:link rel="alternate" href="/jsh/7/2.cover.gif" c:role="http://schema.highwire.org/variant/cover" type="image/gif"/>
+<atom:link rel="http://schema.highwire.org/Publishing#edit-variant" href="/jsh/7/2.cover.gif" c:role="http://schema.highwire.org/variant/cover" type="image/gif"/>
+<atom:link rel="alternate" href="/jsh/7/2.manifest.xml" c:role="http://schema.highwire.org/variant/manifest" type="application/xml"/>
+<atom:link rel="http://schema.highwire.org/Publishing#edit-variant" href="/jsh/7/2.manifest.xml" c:role="http://schema.highwire.org/variant/manifest" type="application/xml"/>
+<atom:link rel="http://schema.highwire.org/Compound#child" href="/jsh/7/2/115.atom" c:role="http://schema.highwire.org/Journal/Article"/>
+<atom:link rel="http://schema.highwire.org/Compound#child" href="/jsh/7/2/142.atom" c:role="http://schema.highwire.org/Journal/Article"/>
+<atom:link rel="http://schema.highwire.org/Compound#child" href="/jsh/7/2/165.atom" c:role="http://schema.highwire.org/Journal/Article"/>
+<atom:link rel="http://schema.highwire.org/Compound#child" href="/jsh/7/2/171.atom" c:role="http://schema.highwire.org/Journal/Article"/>
+<atom:link rel="http://schema.highwire.org/Compound#child" href="/jsh/7/2/195.atom" c:role="http://schema.highwire.org/Journal/Article"/>
+<atom:link rel="http://schema.highwire.org/Compound#child" href="/jsh/7/2/201.atom" c:role="http://schema.highwire.org/Journal/Article"/>
+<atom:link rel="http://schema.highwire.org/Compound#child" href="/jsh/7/2/208.atom" c:role="http://schema.highwire.org/Journal/Article"/>
+<atom:link rel="http://schema.highwire.org/Compound#child" href="/jsh/7/2/211.atom" c:role="http://schema.highwire.org/Journal/Article"/>
+<atom:link rel="http://schema.highwire.org/Compound#child" href="/jsh/7/2/214.atom" c:role="http://schema.highwire.org/Journal/Article"/>
+<atom:link rel="http://schema.highwire.org/Compound#child" href="/jsh/7/2/216.atom" c:role="http://schema.highwire.org/Journal/Article"/>
+<atom:link rel="http://schema.highwire.org/Compound#child" href="/jsh/7/2/218.atom" c:role="http://schema.highwire.org/Journal/Article"/>
+<atom:link rel="http://schema.highwire.org/Compound#child" href="/jsh/7/2/220.atom" c:role="http://schema.highwire.org/Journal/Article"/>
+<atom:link rel="http://schema.highwire.org/Compound#child" href="/jsh/7/2/223.atom" c:role="http://schema.highwire.org/Journal/Article"/>
+<atom:link rel="http://schema.highwire.org/Compound#child" href="/jsh/7/2/224.atom" c:role="http://schema.highwire.org/Journal/Article"/>
+<atom:link rel="http://schema.highwire.org/Compound#child" href="/jsh/7/2/225.atom" c:role="http://schema.highwire.org/Journal/Article"/>
+<atom:link rel="http://schema.highwire.org/Compound#child" href="/jsh/7/2/228.atom" c:role="http://schema.highwire.org/Journal/Article"/>
+<atom:link rel="http://schema.highwire.org/Compound#child" href="/jsh/7/2/230.atom" c:role="http://schema.highwire.org/Journal/Article"/>
+<atom:link rel="http://schema.highwire.org/Compound#child" href="/jsh/7/2/233.atom" c:role="http://schema.highwire.org/Journal/Article"/>
+<atom:link rel="http://schema.highwire.org/Compound#child" href="/jsh/7/2/235.atom" c:role="http://schema.highwire.org/Journal/Article"/>
+<atom:link rel="http://schema.highwire.org/Compound#child" href="/jsh/7/2/239.atom" c:role="http://schema.highwire.org/Journal/Article"/>
+<atom:link rel="alternate" href="/jsh/7/2.toc.pdf" c:role="http://schema.highwire.org/variant/table-of-contents" type="application/pdf"/>
+<atom:link rel="http://schema.highwire.org/Publishing#edit-variant" href="/jsh/7/2.toc.pdf" c:role="http://schema.highwire.org/variant/table-of-contents" type="application/pdf"/>
+<atom:link rel="alternate" href="/jsh/7/2.toc.xml" c:role="http://schema.highwire.org/variant/table-of-contents" type="application/xml"/>
+<atom:link rel="http://schema.highwire.org/Publishing#edit-variant" href="/jsh/7/2.toc.xml" c:role="http://schema.highwire.org/variant/table-of-contents" type="application/xml"/>
+</atom:entry>

@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<statuses type="array">
+<status>
+  <created_at>Mon Jul 06 17:17:31 +0000 2009</created_at>
+  <id>2499838341</id>
+  <text>13 Beautiful Wordpress Showcase Sites: http://bit.ly/9Tq5K
+ #WordPress plz RT @saip106</text>
+  <source>&lt;a href="http://apiwiki.twitter.com/"&gt;API&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id/>
+  <in_reply_to_user_id/>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name/>
+  <user>
+    <id>14574588</id>
+    <name>Abhinav Singh</name>
+    <screen_name>imoracle</screen_name>
+    <location>Bangalore</location>
+    <description>Abhi's Weblog is a collection of tutorials written by me. The blog primarily focuses on technologies like Apache, MySQL, PHP, XMPP, Adobe AIR, JS n others</description>
+    <profile_image_url>http://s3.amazonaws.com/twitter_production/profile_images/106452103/2629_137256780614_544265614_6072974_6682669_n_normal.jpg</profile_image_url>
+    <url>http://abhinavsingh.com/blog</url>
+    <protected>false</protected>
+    <followers_count>619</followers_count>
+    <profile_background_color>9AE4E8</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>DDFFCC</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>BDDCAD</profile_sidebar_border_color>
+    <friends_count>378</friends_count>
+    <created_at>Mon Apr 28 19:58:51 +0000 2008</created_at>
+    <favourites_count>11</favourites_count>
+    <utc_offset>19800</utc_offset>
+    <time_zone>Chennai</time_zone>
+    <profile_background_image_url>http://s3.amazonaws.com/twitter_production/profile_background_images/21299691/grasscover.jpg</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>789</statuses_count>
+    <notifications>false</notifications>
+    <verified>false</verified>
+    <following>false</following>
+  </user>
+</status>
+<status>
+  <created_at>Mon Jul 06 17:13:31 +0000 2009</created_at>
+  <id>2499780899</id>
+  <text>55 Really Creative And Unique Blog Design Showcase: Inspiration: http://bit.ly/u2TC3
+ #WebDesign plz Rt @saip106</text>
+  <source>&lt;a href="http://apiwiki.twitter.com/"&gt;API&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id/>
+  <in_reply_to_user_id/>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name/>
+  <user>
+    <id>14574588</id>
+    <name>Abhinav Singh</name>
+    <screen_name>imoracle</screen_name>
+    <location>Bangalore</location>
+    <description>Abhi's Weblog is a collection of tutorials written by me. The blog primarily focuses on technologies like Apache, MySQL, PHP, XMPP, Adobe AIR, JS n others</description>
+    <profile_image_url>http://s3.amazonaws.com/twitter_production/profile_images/106452103/2629_137256780614_544265614_6072974_6682669_n_normal.jpg</profile_image_url>
+    <url>http://abhinavsingh.com/blog</url>
+    <protected>false</protected>
+    <followers_count>619</followers_count>
+    <profile_background_color>9AE4E8</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>DDFFCC</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>BDDCAD</profile_sidebar_border_color>
+    <friends_count>378</friends_count>
+    <created_at>Mon Apr 28 19:58:51 +0000 2008</created_at>
+    <favourites_count>11</favourites_count>
+    <utc_offset>19800</utc_offset>
+    <time_zone>Chennai</time_zone>
+    <profile_background_image_url>http://s3.amazonaws.com/twitter_production/profile_background_images/21299691/grasscover.jpg</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>788</statuses_count>
+    <notifications>false</notifications>
+    <verified>false</verified>
+    <following>false</following>
+  </user>
+</status>
+<status>
+  <created_at>Mon Jul 06 17:09:31 +0000 2009</created_at>
+  <id>2499724163</id>
+  <text>#freelance #PHP #job - Need PHP symfony developer to complete tvguide.com clone | PHP ($250 - 750) - http://tinyurl.com/nmb499 #jobs(via ...</text>
+  <source>&lt;a href="http://apiwiki.twitter.com/"&gt;API&lt;/a&gt;</source>
+  <truncated>true</truncated>
+  <in_reply_to_status_id/>
+  <in_reply_to_user_id/>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name/>
+  <user>
+    <id>14574588</id>
+    <name>Abhinav Singh</name>
+    <screen_name>imoracle</screen_name>
+    <location>Bangalore</location>
+    <description>Abhi's Weblog is a collection of tutorials written by me. The blog primarily focuses on technologies like Apache, MySQL, PHP, XMPP, Adobe AIR, JS n others</description>
+    <profile_image_url>http://s3.amazonaws.com/twitter_production/profile_images/106452103/2629_137256780614_544265614_6072974_6682669_n_normal.jpg</profile_image_url>
+    <url>http://abhinavsingh.com/blog</url>
+    <protected>false</protected>
+    <followers_count>620</followers_count>
+    <profile_background_color>9AE4E8</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>DDFFCC</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>BDDCAD</profile_sidebar_border_color>
+    <friends_count>378</friends_count>
+    <created_at>Mon Apr 28 19:58:51 +0000 2008</created_at>
+    <favourites_count>11</favourites_count>
+    <utc_offset>19800</utc_offset>
+    <time_zone>Chennai</time_zone>
+    <profile_background_image_url>http://s3.amazonaws.com/twitter_production/profile_background_images/21299691/grasscover.jpg</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>787</statuses_count>
+    <notifications>false</notifications>
+    <verified>false</verified>
+    <following>false</following>
+  </user>
+</status>
+<status>
+  <created_at>Mon Jul 06 17:01:32 +0000 2009</created_at>
+  <id>2499607183</id>
+  <text>22 Open Source PHP Frameworks To Shorten Your Development Time http://klck.me/7b #framework @KISSmetrics</text>
+  <source>&lt;a href="http://apiwiki.twitter.com/"&gt;API&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id/>
+  <in_reply_to_user_id/>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name/>
+  <user>
+    <id>14574588</id>
+    <name>Abhinav Singh</name>
+    <screen_name>imoracle</screen_name>
+    <location>Bangalore</location>
+    <description>Abhi's Weblog is a collection of tutorials written by me. The blog primarily focuses on technologies like Apache, MySQL, PHP, XMPP, Adobe AIR, JS n others</description>
+    <profile_image_url>http://s3.amazonaws.com/twitter_production/profile_images/106452103/2629_137256780614_544265614_6072974_6682669_n_normal.jpg</profile_image_url>
+    <url>http://abhinavsingh.com/blog</url>
+    <protected>false</protected>
+    <followers_count>621</followers_count>
+    <profile_background_color>9AE4E8</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>DDFFCC</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>BDDCAD</profile_sidebar_border_color>
+    <friends_count>378</friends_count>
+    <created_at>Mon Apr 28 19:58:51 +0000 2008</created_at>
+    <favourites_count>11</favourites_count>
+    <utc_offset>19800</utc_offset>
+    <time_zone>Chennai</time_zone>
+    <profile_background_image_url>http://s3.amazonaws.com/twitter_production/profile_background_images/21299691/grasscover.jpg</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>786</statuses_count>
+    <notifications>false</notifications>
+    <verified>false</verified>
+    <following>false</following>
+  </user>
+</status>
+<status>
+  <created_at>Mon Jul 06 16:57:31 +0000 2009</created_at>
+  <id>2499549789</id>
+  <text>Top 15 Plugins to Make Your WordPress Blog More Social http://bit.ly/6ws77 #wordpress @allWordpress</text>
+  <source>&lt;a href="http://apiwiki.twitter.com/"&gt;API&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id/>
+  <in_reply_to_user_id/>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name/>
+  <user>
+    <id>14574588</id>
+    <name>Abhinav Singh</name>
+    <screen_name>imoracle</screen_name>
+    <location>Bangalore</location>
+    <description>Abhi's Weblog is a collection of tutorials written by me. The blog primarily focuses on technologies like Apache, MySQL, PHP, XMPP, Adobe AIR, JS n others</description>
+    <profile_image_url>http://s3.amazonaws.com/twitter_production/profile_images/106452103/2629_137256780614_544265614_6072974_6682669_n_normal.jpg</profile_image_url>
+    <url>http://abhinavsingh.com/blog</url>
+    <protected>false</protected>
+    <followers_count>621</followers_count>
+    <profile_background_color>9AE4E8</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>DDFFCC</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>BDDCAD</profile_sidebar_border_color>
+    <friends_count>378</friends_count>
+    <created_at>Mon Apr 28 19:58:51 +0000 2008</created_at>
+    <favourites_count>11</favourites_count>
+    <utc_offset>19800</utc_offset>
+    <time_zone>Chennai</time_zone>
+    <profile_background_image_url>http://s3.amazonaws.com/twitter_production/profile_background_images/21299691/grasscover.jpg</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>785</statuses_count>
+    <notifications>false</notifications>
+    <verified>false</verified>
+    <following>false</following>
+  </user>
+</status>
+<status>
+  <created_at>Mon Jul 06 16:53:32 +0000 2009</created_at>
+  <id>2499492750</id>
+  <text>Wuup | @rilinho Hey mate, there is a Wordpress e-commerce plugin ... http://bit.ly/nJ16y #wordpress @allWordpress</text>
+  <source>&lt;a href="http://apiwiki.twitter.com/"&gt;API&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id/>
+  <in_reply_to_user_id/>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name/>
+  <user>
+    <id>14574588</id>
+    <name>Abhinav Singh</name>
+    <screen_name>imoracle</screen_name>
+    <location>Bangalore</location>
+    <description>Abhi's Weblog is a collection of tutorials written by me. The blog primarily focuses on technologies like Apache, MySQL, PHP, XMPP, Adobe AIR, JS n others</description>
+    <profile_image_url>http://s3.amazonaws.com/twitter_production/profile_images/106452103/2629_137256780614_544265614_6072974_6682669_n_normal.jpg</profile_image_url>
+    <url>http://abhinavsingh.com/blog</url>
+    <protected>false</protected>
+    <followers_count>620</followers_count>
+    <profile_background_color>9AE4E8</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>DDFFCC</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>BDDCAD</profile_sidebar_border_color>
+    <friends_count>378</friends_count>
+    <created_at>Mon Apr 28 19:58:51 +0000 2008</created_at>
+    <favourites_count>11</favourites_count>
+    <utc_offset>19800</utc_offset>
+    <time_zone>Chennai</time_zone>
+    <profile_background_image_url>http://s3.amazonaws.com/twitter_production/profile_background_images/21299691/grasscover.jpg</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>784</statuses_count>
+    <notifications/>
+    <verified>false</verified>
+    <following/>
+  </user>
+</status>
+<status>
+  <created_at>Mon Jul 06 16:41:32 +0000 2009</created_at>
+  <id>2499318505</id>
+  <text>Blogomunity Google Search - http://bit.ly/PBg5H #google @open4gjoomla</text>
+  <source>&lt;a href="http://apiwiki.twitter.com/"&gt;API&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id/>
+  <in_reply_to_user_id/>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name/>
+  <user>
+    <id>14574588</id>
+    <name>Abhinav Singh</name>
+    <screen_name>imoracle</screen_name>
+    <location>Bangalore</location>
+    <description>Abhi's Weblog is a collection of tutorials written by me. The blog primarily focuses on technologies like Apache, MySQL, PHP, XMPP, Adobe AIR, JS n others</description>
+    <profile_image_url>http://s3.amazonaws.com/twitter_production/profile_images/106452103/2629_137256780614_544265614_6072974_6682669_n_normal.jpg</profile_image_url>
+    <url>http://abhinavsingh.com/blog</url>
+    <protected>false</protected>
+    <followers_count>620</followers_count>
+    <profile_background_color>9AE4E8</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>DDFFCC</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>BDDCAD</profile_sidebar_border_color>
+    <friends_count>379</friends_count>
+    <created_at>Mon Apr 28 19:58:51 +0000 2008</created_at>
+    <favourites_count>11</favourites_count>
+    <utc_offset>19800</utc_offset>
+    <time_zone>Chennai</time_zone>
+    <profile_background_image_url>http://s3.amazonaws.com/twitter_production/profile_background_images/21299691/grasscover.jpg</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>783</statuses_count>
+    <notifications/>
+    <verified>false</verified>
+    <following/>
+  </user>
+</status>
+<status>
+  <created_at>Mon Jul 06 16:37:31 +0000 2009</created_at>
+  <id>2499260592</id>
+  <text>10 Handy PHP Snippets To Handle HTML (for Web Developers) - http://tr.im/qR4l (via @smashingmag) #php #html(via @SeanNieuwoudt) @hashphp</text>
+  <source>&lt;a href="http://apiwiki.twitter.com/"&gt;API&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id/>
+  <in_reply_to_user_id/>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name/>
+  <user>
+    <id>14574588</id>
+    <name>Abhinav Singh</name>
+    <screen_name>imoracle</screen_name>
+    <location>Bangalore</location>
+    <description>Abhi's Weblog is a collection of tutorials written by me. The blog primarily focuses on technologies like Apache, MySQL, PHP, XMPP, Adobe AIR, JS n others</description>
+    <profile_image_url>http://s3.amazonaws.com/twitter_production/profile_images/106452103/2629_137256780614_544265614_6072974_6682669_n_normal.jpg</profile_image_url>
+    <url>http://abhinavsingh.com/blog</url>
+    <protected>false</protected>
+    <followers_count>620</followers_count>
+    <profile_background_color>9AE4E8</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>DDFFCC</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>BDDCAD</profile_sidebar_border_color>
+    <friends_count>379</friends_count>
+    <created_at>Mon Apr 28 19:58:51 +0000 2008</created_at>
+    <favourites_count>11</favourites_count>
+    <utc_offset>19800</utc_offset>
+    <time_zone>Chennai</time_zone>
+    <profile_background_image_url>http://s3.amazonaws.com/twitter_production/profile_background_images/21299691/grasscover.jpg</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>782</statuses_count>
+    <notifications/>
+    <verified>false</verified>
+    <following/>
+  </user>
+</status>
+<status>
+  <created_at>Mon Jul 06 16:33:31 +0000 2009</created_at>
+  <id>2499201507</id>
+  <text>Joomla! 1.5.12 Released - http://bit.ly/13UxpX #joomla @open4gjoomla</text>
+  <source>&lt;a href="http://apiwiki.twitter.com/"&gt;API&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id/>
+  <in_reply_to_user_id/>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name/>
+  <user>
+    <id>14574588</id>
+    <name>Abhinav Singh</name>
+    <screen_name>imoracle</screen_name>
+    <location>Bangalore</location>
+    <description>Abhi's Weblog is a collection of tutorials written by me. The blog primarily focuses on technologies like Apache, MySQL, PHP, XMPP, Adobe AIR, JS n others</description>
+    <profile_image_url>http://s3.amazonaws.com/twitter_production/profile_images/106452103/2629_137256780614_544265614_6072974_6682669_n_normal.jpg</profile_image_url>
+    <url>http://abhinavsingh.com/blog</url>
+    <protected>false</protected>
+    <followers_count>621</followers_count>
+    <profile_background_color>9AE4E8</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>DDFFCC</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>BDDCAD</profile_sidebar_border_color>
+    <friends_count>379</friends_count>
+    <created_at>Mon Apr 28 19:58:51 +0000 2008</created_at>
+    <favourites_count>11</favourites_count>
+    <utc_offset>19800</utc_offset>
+    <time_zone>Chennai</time_zone>
+    <profile_background_image_url>http://s3.amazonaws.com/twitter_production/profile_background_images/21299691/grasscover.jpg</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>781</statuses_count>
+    <notifications>false</notifications>
+    <verified>false</verified>
+    <following>false</following>
+  </user>
+</status>
+<status>
+  <created_at>Mon Jul 06 16:29:31 +0000 2009</created_at>
+  <id>2499142485</id>
+  <text>Found this JS framework that I've never heard of before. Looks interesting so far. http://www.uize.com/ #javascript #framework(via @elis ...</text>
+  <source>&lt;a href="http://apiwiki.twitter.com/"&gt;API&lt;/a&gt;</source>
+  <truncated>true</truncated>
+  <in_reply_to_status_id/>
+  <in_reply_to_user_id/>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name/>
+  <user>
+    <id>14574588</id>
+    <name>Abhinav Singh</name>
+    <screen_name>imoracle</screen_name>
+    <location>Bangalore</location>
+    <description>Abhi's Weblog is a collection of tutorials written by me. The blog primarily focuses on technologies like Apache, MySQL, PHP, XMPP, Adobe AIR, JS n others</description>
+    <profile_image_url>http://s3.amazonaws.com/twitter_production/profile_images/106452103/2629_137256780614_544265614_6072974_6682669_n_normal.jpg</profile_image_url>
+    <url>http://abhinavsingh.com/blog</url>
+    <protected>false</protected>
+    <followers_count>620</followers_count>
+    <profile_background_color>9AE4E8</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>DDFFCC</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>BDDCAD</profile_sidebar_border_color>
+    <friends_count>379</friends_count>
+    <created_at>Mon Apr 28 19:58:51 +0000 2008</created_at>
+    <favourites_count>11</favourites_count>
+    <utc_offset>19800</utc_offset>
+    <time_zone>Chennai</time_zone>
+    <profile_background_image_url>http://s3.amazonaws.com/twitter_production/profile_background_images/21299691/grasscover.jpg</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>780</statuses_count>
+    <notifications>false</notifications>
+    <verified>false</verified>
+    <following>false</following>
+  </user>
+</status>
+<status>
+  <created_at>Mon Jul 06 15:49:31 +0000 2009</created_at>
+  <id>2498575219</id>
+  <text>UK launches £150M fund of funds; gov't investing in  startups to find the "#Google  of the future" http://bit.ly/KyTcF @vishalgondal</text>
+  <source>&lt;a href="http://apiwiki.twitter.com/"&gt;API&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id/>
+  <in_reply_to_user_id/>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name/>
+  <user>
+    <id>14574588</id>
+    <name>Abhinav Singh</name>
+    <screen_name>imoracle</screen_name>
+    <location>Bangalore</location>
+    <description>Abhi's Weblog is a collection of tutorials written by me. The blog primarily focuses on technologies like Apache, MySQL, PHP, XMPP, Adobe AIR, JS n others</description>
+    <profile_image_url>http://s3.amazonaws.com/twitter_production/profile_images/106452103/2629_137256780614_544265614_6072974_6682669_n_normal.jpg</profile_image_url>
+    <url>http://abhinavsingh.com/blog</url>
+    <protected>false</protected>
+    <followers_count>623</followers_count>
+    <profile_background_color>9AE4E8</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>DDFFCC</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>BDDCAD</profile_sidebar_border_color>
+    <friends_count>379</friends_count>
+    <created_at>Mon Apr 28 19:58:51 +0000 2008</created_at>
+    <favourites_count>11</favourites_count>
+    <utc_offset>19800</utc_offset>
+    <time_zone>Chennai</time_zone>
+    <profile_background_image_url>http://s3.amazonaws.com/twitter_production/profile_background_images/21299691/grasscover.jpg</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>779</statuses_count>
+    <notifications>false</notifications>
+    <verified>false</verified>
+    <following>false</following>
+  </user>
+</status>
+<status>
+  <created_at>Mon Jul 06 15:33:31 +0000 2009</created_at>
+  <id>2498354920</id>
+  <text>How To Install WordPress Manually (1 of 4) http://bit.ly/KCHr8 #wordpress @allWordpress</text>
+  <source>&lt;a href="http://apiwiki.twitter.com/"&gt;API&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id/>
+  <in_reply_to_user_id/>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name/>
+  <user>
+    <id>14574588</id>
+    <name>Abhinav Singh</name>
+    <screen_name>imoracle</screen_name>
+    <location>Bangalore</location>
+    <description>Abhi's Weblog is a collection of tutorials written by me. The blog primarily focuses on technologies like Apache, MySQL, PHP, XMPP, Adobe AIR, JS n others</description>
+    <profile_image_url>http://s3.amazonaws.com/twitter_production/profile_images/106452103/2629_137256780614_544265614_6072974_6682669_n_normal.jpg</profile_image_url>
+    <url>http://abhinavsingh.com/blog</url>
+    <protected>false</protected>
+    <followers_count>623</followers_count>
+    <profile_background_color>9AE4E8</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>DDFFCC</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>BDDCAD</profile_sidebar_border_color>
+    <friends_count>379</friends_count>
+    <created_at>Mon Apr 28 19:58:51 +0000 2008</created_at>
+    <favourites_count>11</favourites_count>
+    <utc_offset>19800</utc_offset>
+    <time_zone>Chennai</time_zone>
+    <profile_background_image_url>http://s3.amazonaws.com/twitter_production/profile_background_images/21299691/grasscover.jpg</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>778</statuses_count>
+    <notifications>false</notifications>
+    <verified>false</verified>
+    <following>false</following>
+  </user>
+</status>
+<status>
+  <created_at>Mon Jul 06 15:29:31 +0000 2009</created_at>
+  <id>2498298952</id>
+  <text>How To Install WordPress Manually (2 of 4) http://bit.ly/XA3Wt #wordpress @allWordpress</text>
+  <source>&lt;a href="http://apiwiki.twitter.com/"&gt;API&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id/>
+  <in_reply_to_user_id/>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name/>
+  <user>
+    <id>14574588</id>
+    <name>Abhinav Singh</name>
+    <screen_name>imoracle</screen_name>
+    <location>Bangalore</location>
+    <description>Abhi's Weblog is a collection of tutorials written by me. The blog primarily focuses on technologies like Apache, MySQL, PHP, XMPP, Adobe AIR, JS n others</description>
+    <profile_image_url>http://s3.amazonaws.com/twitter_production/profile_images/106452103/2629_137256780614_544265614_6072974_6682669_n_normal.jpg</profile_image_url>
+    <url>http://abhinavsingh.com/blog</url>
+    <protected>false</protected>
+    <followers_count>624</followers_count>
+    <profile_background_color>9AE4E8</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>DDFFCC</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>BDDCAD</profile_sidebar_border_color>
+    <friends_count>379</friends_count>
+    <created_at>Mon Apr 28 19:58:51 +0000 2008</created_at>
+    <favourites_count>11</favourites_count>
+    <utc_offset>19800</utc_offset>
+    <time_zone>Chennai</time_zone>
+    <profile_background_image_url>http://s3.amazonaws.com/twitter_production/profile_background_images/21299691/grasscover.jpg</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>777</statuses_count>
+    <notifications>false</notifications>
+    <verified>false</verified>
+    <following>false</following>
+  </user>
+</status>
+<status>
+  <created_at>Mon Jul 06 15:25:30 +0000 2009</created_at>
+  <id>2498245008</id>
+  <text>How To Install WordPress Manually (3 of 4) http://bit.ly/kfSSt #wordpress @allWordpress</text>
+  <source>&lt;a href="http://apiwiki.twitter.com/"&gt;API&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id/>
+  <in_reply_to_user_id/>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name/>
+  <user>
+    <id>14574588</id>
+    <name>Abhinav Singh</name>
+    <screen_name>imoracle</screen_name>
+    <location>Bangalore</location>
+    <description>Abhi's Weblog is a collection of tutorials written by me. The blog primarily focuses on technologies like Apache, MySQL, PHP, XMPP, Adobe AIR, JS n others</description>
+    <profile_image_url>http://s3.amazonaws.com/twitter_production/profile_images/106452103/2629_137256780614_544265614_6072974_6682669_n_normal.jpg</profile_image_url>
+    <url>http://abhinavsingh.com/blog</url>
+    <protected>false</protected>
+    <followers_count>624</followers_count>
+    <profile_background_color>9AE4E8</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>DDFFCC</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>BDDCAD</profile_sidebar_border_color>
+    <friends_count>379</friends_count>
+    <created_at>Mon Apr 28 19:58:51 +0000 2008</created_at>
+    <favourites_count>11</favourites_count>
+    <utc_offset>19800</utc_offset>
+    <time_zone>Chennai</time_zone>
+    <profile_background_image_url>http://s3.amazonaws.com/twitter_production/profile_background_images/21299691/grasscover.jpg</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>776</statuses_count>
+    <notifications>false</notifications>
+    <verified>false</verified>
+    <following>false</following>
+  </user>
+</status>
+<status>
+  <created_at>Mon Jul 06 15:21:30 +0000 2009</created_at>
+  <id>2498189728</id>
+  <text>How To Install WordPress Manually (4 of 4) http://bit.ly/p86Yh #wordpress @allWordpress</text>
+  <source>&lt;a href="http://apiwiki.twitter.com/"&gt;API&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id/>
+  <in_reply_to_user_id/>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name/>
+  <user>
+    <id>14574588</id>
+    <name>Abhinav Singh</name>
+    <screen_name>imoracle</screen_name>
+    <location>Bangalore</location>
+    <description>Abhi's Weblog is a collection of tutorials written by me. The blog primarily focuses on technologies like Apache, MySQL, PHP, XMPP, Adobe AIR, JS n others</description>
+    <profile_image_url>http://s3.amazonaws.com/twitter_production/profile_images/106452103/2629_137256780614_544265614_6072974_6682669_n_normal.jpg</profile_image_url>
+    <url>http://abhinavsingh.com/blog</url>
+    <protected>false</protected>
+    <followers_count>625</followers_count>
+    <profile_background_color>9AE4E8</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>DDFFCC</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>BDDCAD</profile_sidebar_border_color>
+    <friends_count>379</friends_count>
+    <created_at>Mon Apr 28 19:58:51 +0000 2008</created_at>
+    <favourites_count>11</favourites_count>
+    <utc_offset>19800</utc_offset>
+    <time_zone>Chennai</time_zone>
+    <profile_background_image_url>http://s3.amazonaws.com/twitter_production/profile_background_images/21299691/grasscover.jpg</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>775</statuses_count>
+    <notifications/>
+    <verified>false</verified>
+    <following/>
+  </user>
+</status>
+<status>
+  <created_at>Mon Jul 06 15:17:30 +0000 2009</created_at>
+  <id>2498134306</id>
+  <text>Multiply Your Wordpress RSS Feed Power http://bit.ly/y3oQs #wordpress @allWordpress</text>
+  <source>&lt;a href="http://apiwiki.twitter.com/"&gt;API&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id/>
+  <in_reply_to_user_id/>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name/>
+  <user>
+    <id>14574588</id>
+    <name>Abhinav Singh</name>
+    <screen_name>imoracle</screen_name>
+    <location>Bangalore</location>
+    <description>Abhi's Weblog is a collection of tutorials written by me. The blog primarily focuses on technologies like Apache, MySQL, PHP, XMPP, Adobe AIR, JS n others</description>
+    <profile_image_url>http://s3.amazonaws.com/twitter_production/profile_images/106452103/2629_137256780614_544265614_6072974_6682669_n_normal.jpg</profile_image_url>
+    <url>http://abhinavsingh.com/blog</url>
+    <protected>false</protected>
+    <followers_count>625</followers_count>
+    <profile_background_color>9AE4E8</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>DDFFCC</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>BDDCAD</profile_sidebar_border_color>
+    <friends_count>379</friends_count>
+    <created_at>Mon Apr 28 19:58:51 +0000 2008</created_at>
+    <favourites_count>11</favourites_count>
+    <utc_offset>19800</utc_offset>
+    <time_zone>Chennai</time_zone>
+    <profile_background_image_url>http://s3.amazonaws.com/twitter_production/profile_background_images/21299691/grasscover.jpg</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>774</statuses_count>
+    <notifications>false</notifications>
+    <verified>false</verified>
+    <following>false</following>
+  </user>
+</status>
+<status>
+  <created_at>Mon Jul 06 15:09:31 +0000 2009</created_at>
+  <id>2498027086</id>
+  <text>http://codeigniter.com/ Easy , MVC , lightweight #PHP Framework(via @saturngod) #framework @hashphp</text>
+  <source>&lt;a href="http://apiwiki.twitter.com/"&gt;API&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id/>
+  <in_reply_to_user_id/>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name/>
+  <user>
+    <id>14574588</id>
+    <name>Abhinav Singh</name>
+    <screen_name>imoracle</screen_name>
+    <location>Bangalore</location>
+    <description>Abhi's Weblog is a collection of tutorials written by me. The blog primarily focuses on technologies like Apache, MySQL, PHP, XMPP, Adobe AIR, JS n others</description>
+    <profile_image_url>http://s3.amazonaws.com/twitter_production/profile_images/106452103/2629_137256780614_544265614_6072974_6682669_n_normal.jpg</profile_image_url>
+    <url>http://abhinavsingh.com/blog</url>
+    <protected>false</protected>
+    <followers_count>624</followers_count>
+    <profile_background_color>9AE4E8</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>DDFFCC</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>BDDCAD</profile_sidebar_border_color>
+    <friends_count>380</friends_count>
+    <created_at>Mon Apr 28 19:58:51 +0000 2008</created_at>
+    <favourites_count>11</favourites_count>
+    <utc_offset>19800</utc_offset>
+    <time_zone>Chennai</time_zone>
+    <profile_background_image_url>http://s3.amazonaws.com/twitter_production/profile_background_images/21299691/grasscover.jpg</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>773</statuses_count>
+    <notifications>false</notifications>
+    <verified>false</verified>
+    <following>false</following>
+  </user>
+</status>
+<status>
+  <created_at>Mon Jul 06 14:57:31 +0000 2009</created_at>
+  <id>2497864222</id>
+  <text>&amp;lt;3 #CodeIgniter! RT @hashphp: http://codeigniter.com/ Easy , MVC , lightweight #PHP Framework(via @saturngod) #framework @IsaacVanName</text>
+  <source>&lt;a href="http://apiwiki.twitter.com/"&gt;API&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id/>
+  <in_reply_to_user_id/>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name/>
+  <user>
+    <id>14574588</id>
+    <name>Abhinav Singh</name>
+    <screen_name>imoracle</screen_name>
+    <location>Bangalore</location>
+    <description>Abhi's Weblog is a collection of tutorials written by me. The blog primarily focuses on technologies like Apache, MySQL, PHP, XMPP, Adobe AIR, JS n others</description>
+    <profile_image_url>http://s3.amazonaws.com/twitter_production/profile_images/106452103/2629_137256780614_544265614_6072974_6682669_n_normal.jpg</profile_image_url>
+    <url>http://abhinavsingh.com/blog</url>
+    <protected>false</protected>
+    <followers_count>624</followers_count>
+    <profile_background_color>9AE4E8</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>DDFFCC</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>BDDCAD</profile_sidebar_border_color>
+    <friends_count>380</friends_count>
+    <created_at>Mon Apr 28 19:58:51 +0000 2008</created_at>
+    <favourites_count>11</favourites_count>
+    <utc_offset>19800</utc_offset>
+    <time_zone>Chennai</time_zone>
+    <profile_background_image_url>http://s3.amazonaws.com/twitter_production/profile_background_images/21299691/grasscover.jpg</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>772</statuses_count>
+    <notifications>false</notifications>
+    <verified>false</verified>
+    <following>false</following>
+  </user>
+</status>
+<status>
+  <created_at>Mon Jul 06 14:53:31 +0000 2009</created_at>
+  <id>2497811711</id>
+  <text>Scaffolding, implementing and using project specific Zend_Tool_Project_Providers - Raphael Stolt: Working on a p.. http://tinyurl.com/lw ...</text>
+  <source>&lt;a href="http://apiwiki.twitter.com/"&gt;API&lt;/a&gt;</source>
+  <truncated>true</truncated>
+  <in_reply_to_status_id/>
+  <in_reply_to_user_id/>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name/>
+  <user>
+    <id>14574588</id>
+    <name>Abhinav Singh</name>
+    <screen_name>imoracle</screen_name>
+    <location>Bangalore</location>
+    <description>Abhi's Weblog is a collection of tutorials written by me. The blog primarily focuses on technologies like Apache, MySQL, PHP, XMPP, Adobe AIR, JS n others</description>
+    <profile_image_url>http://s3.amazonaws.com/twitter_production/profile_images/106452103/2629_137256780614_544265614_6072974_6682669_n_normal.jpg</profile_image_url>
+    <url>http://abhinavsingh.com/blog</url>
+    <protected>false</protected>
+    <followers_count>624</followers_count>
+    <profile_background_color>9AE4E8</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>DDFFCC</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>BDDCAD</profile_sidebar_border_color>
+    <friends_count>380</friends_count>
+    <created_at>Mon Apr 28 19:58:51 +0000 2008</created_at>
+    <favourites_count>11</favourites_count>
+    <utc_offset>19800</utc_offset>
+    <time_zone>Chennai</time_zone>
+    <profile_background_image_url>http://s3.amazonaws.com/twitter_production/profile_background_images/21299691/grasscover.jpg</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>771</statuses_count>
+    <notifications>false</notifications>
+    <verified>false</verified>
+    <following>false</following>
+  </user>
+</status>
+<status>
+  <created_at>Mon Jul 06 14:45:30 +0000 2009</created_at>
+  <id>2497704262</id>
+  <text>NEW: Web Site Improvements Using jQuery and jQuery UI: A Brownfield Development Series - http://is.gd/1lYFP, #Javascript #JQuery #JQuery ...</text>
+  <source>&lt;a href="http://apiwiki.twitter.com/"&gt;API&lt;/a&gt;</source>
+  <truncated>true</truncated>
+  <in_reply_to_status_id/>
+  <in_reply_to_user_id/>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name/>
+  <user>
+    <id>14574588</id>
+    <name>Abhinav Singh</name>
+    <screen_name>imoracle</screen_name>
+    <location>Bangalore</location>
+    <description>Abhi's Weblog is a collection of tutorials written by me. The blog primarily focuses on technologies like Apache, MySQL, PHP, XMPP, Adobe AIR, JS n others</description>
+    <profile_image_url>http://s3.amazonaws.com/twitter_production/profile_images/106452103/2629_137256780614_544265614_6072974_6682669_n_normal.jpg</profile_image_url>
+    <url>http://abhinavsingh.com/blog</url>
+    <protected>false</protected>
+    <followers_count>623</followers_count>
+    <profile_background_color>9AE4E8</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>DDFFCC</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>BDDCAD</profile_sidebar_border_color>
+    <friends_count>380</friends_count>
+    <created_at>Mon Apr 28 19:58:51 +0000 2008</created_at>
+    <favourites_count>11</favourites_count>
+    <utc_offset>19800</utc_offset>
+    <time_zone>Chennai</time_zone>
+    <profile_background_image_url>http://s3.amazonaws.com/twitter_production/profile_background_images/21299691/grasscover.jpg</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <statuses_count>770</statuses_count>
+    <notifications>false</notifications>
+    <verified>false</verified>
+    <following>false</following>
+  </user>
+</status>
+</statuses>
